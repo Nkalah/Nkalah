@@ -183,20 +183,16 @@ A Python dashboard combining machine-learning experiments with technical indicat
 
 <br/>
 
-## 📈 Contribution Activity
+## 🟡 Contribution Activity
 
+<!-- Needs the Pac-Man workflow (.github/workflows/pacman.yml) to run once so the `output` branch exists. -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nkalah&bg_color=0b110f&color=34D399&line=10B981&point=D4AF37&area=true&area_color=10B981&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-<!-- Needs the snake workflow (.github/workflows/snake.yml) to run once so the `output` branch exists. -->
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Nkalah/Nkalah/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nkalah/Nkalah/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nkalah/Nkalah/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/Nkalah/Nkalah/output/pacman-contribution-graph-dark.svg">
+</picture>
 
 </div>
 
