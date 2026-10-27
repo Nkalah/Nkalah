@@ -19,13 +19,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
 [![Email](https://img.shields.io/badge/Email-047857?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 -->
-[![GitHub](https://img.shields.io/badge/GitHub-Chimbo1234-0b110f?style=for-the-badge&logo=github&logoColor=34D399&labelColor=0b110f&color=10B981)](https://github.com/Chimbo1234)
+[![GitHub](https://img.shields.io/badge/GitHub-Nkalah-0b110f?style=for-the-badge&logo=github&logoColor=34D399&labelColor=0b110f&color=10B981)](https://github.com/Nkalah)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Chimbo1234&label=Profile%20Views&color=059669&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Chimbo1234?label=Followers&style=flat-square&color=10B981)
-![Stars](https://img.shields.io/github/stars/Chimbo1234?label=Stars&style=flat-square&color=D4AF37)
+![Profile Views](https://komarev.com/ghpvc/?username=Nkalah&label=Profile%20Views&color=059669&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Nkalah?label=Followers&style=flat-square&color=10B981)
+![Stars](https://img.shields.io/github/stars/Nkalah?label=Stars&style=flat-square&color=D4AF37)
 
 </div>
 
@@ -36,8 +36,8 @@
 <div align="center">
 <table>
 <tr>
-<td valign="top"><img src="https://raw.githubusercontent.com/Chimbo1234/Chimbo1234/main/assets/nkala-ascii.svg" width="440"/></td>
-<td valign="top"><img src="https://raw.githubusercontent.com/Chimbo1234/Chimbo1234/main/assets/info-card.svg" width="440"/></td>
+<td valign="top"><img src="https://raw.githubusercontent.com/Nkalah/Nkalah/main/assets/nkala-ascii.svg" width="440"/></td>
+<td valign="top"><img src="https://raw.githubusercontent.com/Nkalah/Nkalah/main/assets/info-card.svg" width="440"/></td>
 </tr>
 </table>
 </div>
@@ -174,10 +174,10 @@ A Python dashboard combining machine-learning experiments with technical indicat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chimbo1234&show_icons=true&hide_border=true&bg_color=0b110f&title_color=34D399&icon_color=D4AF37&text_color=d7e4de&ring_color=10B981" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=Chimbo1234&hide_border=true&background=0b110f&ring=10B981&fire=D4AF37&currStreakLabel=34D399&currStreakNum=d7e4de&sideNums=d7e4de&sideLabels=6b7f77&dates=6b7f77" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nkalah&show_icons=true&hide_border=true&bg_color=0b110f&title_color=34D399&icon_color=D4AF37&text_color=d7e4de&ring_color=10B981" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Nkalah&hide_border=true&background=0b110f&ring=10B981&fire=D4AF37&currStreakLabel=34D399&currStreakNum=d7e4de&sideNums=d7e4de&sideLabels=6b7f77&dates=6b7f77" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chimbo1234&layout=compact&hide_border=true&bg_color=0b110f&title_color=34D399&text_color=d7e4de" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nkalah&layout=compact&hide_border=true&bg_color=0b110f&title_color=34D399&text_color=d7e4de" width="49%"/>
 
 </div>
 
@@ -187,7 +187,7 @@ A Python dashboard combining machine-learning experiments with technical indicat
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chimbo1234&bg_color=0b110f&color=34D399&line=10B981&point=D4AF37&area=true&area_color=10B981&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nkalah&bg_color=0b110f&color=34D399&line=10B981&point=D4AF37&area=true&area_color=10B981&hide_border=true" width="100%"/>
 
 </div>
 
@@ -196,7 +196,7 @@ A Python dashboard combining machine-learning experiments with technical indicat
 <!-- Needs the snake workflow (.github/workflows/snake.yml) to run once so the `output` branch exists. -->
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Chimbo1234/Chimbo1234/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Nkalah/Nkalah/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -226,7 +226,7 @@ open_to:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Chimbo1234-0b110f?style=for-the-badge&logo=github&logoColor=34D399&color=10B981)](https://github.com/Chimbo1234)
+[![GitHub](https://img.shields.io/badge/Nkalah-0b110f?style=for-the-badge&logo=github&logoColor=34D399&color=10B981)](https://github.com/Nkalah)
 
 </div>
 
