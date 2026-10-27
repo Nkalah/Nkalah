@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="Nkalah/assets/nkalah-graphite-portrait.jpg" width="140" alt="Nkalah — graphite portrait" />
+<img src="assets/nkalah-graphite-portrait.jpg" width="140" alt="Nkalah — graphite portrait" />
 
 # NKALAH
 
