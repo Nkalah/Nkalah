@@ -36,8 +36,8 @@
 <div align="center">
 <table>
 <tr>
-<td valign="top"><img src="https://raw.githubusercontent.com/Nkalah/Nkalah/main/assets/nkala-ascii.svg" width="440"/></td>
-<td valign="top"><img src="https://raw.githubusercontent.com/Nkalah/Nkalah/main/assets/info-card.svg" width="440"/></td>
+<td valign="top"><img src="https://raw.githubusercontent.com/Nkalah/Nkalah/main/assets/nkala-ascii.svg?v=2" width="440"/></td>
+<td valign="top"><img src="https://raw.githubusercontent.com/Nkalah/Nkalah/main/assets/info-card.svg?v=2" width="440"/></td>
 </tr>
 </table>
 </div>
