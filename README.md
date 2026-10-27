@@ -1,172 +1,100 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003B1F&height=200&section=header&text=NKALAH&fontSize=65&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=CODE%20%2F%20BUILD%20%2F%20REPEAT&descSize=16&descAlignY=58&descColor=9AFFB0" width="100%" />
+<img src="assets/nkalah-graphite-portrait.jpg" alt="Monochrome graphite portrait of Nkalah" width="148" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=650&lines=Initializing+developer+profile...;Building+ideas+into+software.;Full-Stack+Development+%7C+Problem+Solving;Always+learning.+Always+building." alt="Animated typing introduction" />
-</a>
+# `NKALAH`
 
-<br/>
+**SOFTWARE DEVELOPMENT · FULL-STACK ENGINEERING · CONTINUOUS LEARNING**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Nkalah-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Nkalah)
-![Profile Views](https://komarev.com/ghpvc/?username=Nkalah&style=for-the-badge&color=003B1F&label=PROFILE+VIEWS)
+`$ building ideas into working software_`
+
+[GitHub](https://github.com/Nkalah) · [Repositories](https://github.com/Nkalah?tab=repositories)
 
 </div>
+
+---
+
+## `01 / ABOUT`
+
+I’m a developer who enjoys turning ideas into useful software, exploring how systems fit together, and learning by building. I’m interested in full-stack development and in making applications that are practical, clear, and maintainable.
+
+I prefer progress you can inspect: working features, understandable code, thoughtful iteration, and projects that solve a real problem.
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│  USER     : Nkalah                                      │
-│  ROLE     : Software Developer                          │
-│  MODE     : Building & Learning                          │
-│  FOCUS    : Full-Stack Development                      │
-│  STACK    : React / TypeScript / Node.js / Python / Java│
-│  STATUS   : Online                                      │
-└─────────────────────────────────────────────────────────┘
+┌─ NKALAH / SYSTEM PROFILE ─────────────────┐
+│ focus      Full-stack development         │
+│ languages  JavaScript · TypeScript · Java │
+│ exploring  Python · React · Node.js       │
+│ approach   Build / Learn / Refine         │
+└───────────────────────────────────────────┘
 ```
 
-## `whoami`
+## `02 / CURRENT TOOLKIT`
 
-Hey, I'm **Nkalah** — a developer interested in building useful software, exploring new technologies, and turning ideas into working applications.
+**Languages**
 
-- `> ` Building and improving software projects.
-- `> ` Working with modern frontend and backend technologies.
-- `> ` Exploring different programming languages and development approaches.
-- `> ` Focused on writing maintainable code and learning through real projects.
+![JavaScript](https://img.shields.io/badge/JavaScript-151816?style=flat-square&logo=javascript&logoColor=36C98F)
+![TypeScript](https://img.shields.io/badge/TypeScript-151816?style=flat-square&logo=typescript&logoColor=36C98F)
+![Python](https://img.shields.io/badge/Python-151816?style=flat-square&logo=python&logoColor=36C98F)
+![Java](https://img.shields.io/badge/Java-151816?style=flat-square&logo=openjdk&logoColor=36C98F)
 
-```bash
-while true; do
-    learn
-    build
-    debug
-    improve
-done
-```
+**Frontend & backend**
 
-## `tech_stack --list`
+![React](https://img.shields.io/badge/React-151816?style=flat-square&logo=react&logoColor=36C98F)
+![Node.js](https://img.shields.io/badge/Node.js-151816?style=flat-square&logo=nodedotjs&logoColor=36C98F)
+![HTML5](https://img.shields.io/badge/HTML5-151816?style=flat-square&logo=html5&logoColor=36C98F)
+![CSS3](https://img.shields.io/badge/CSS3-151816?style=flat-square&logo=css3&logoColor=36C98F)
 
-### Languages
+> This is a technology overview, not a proficiency ranking. Keep the list aligned with tools you can confidently discuss and demonstrate.
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
-</p>
+## `03 / SELECTED WORK`
 
-### Frontend
+Replace these clearly marked entries with real repositories before publishing. A strong project entry explains the problem, what you built, and one or two meaningful engineering decisions.
 
-<p>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
-</p>
+### `project-01` — **[Project name]**
+A short, specific explanation of the problem this project solves and who it helps.
 
-### Backend & Tools
+- **Engineering notes:** [Add verified architecture, key feature, or technical challenge.]
+- **Stack:** [Add only technologies used in this repository.]
+- **Code:** [Repository URL](https://github.com/Nkalah/REPLACE_WITH_REPOSITORY)
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"/>
-</p>
+### `project-02` — **[Project name]**
+Describe the user need, the core workflow, and what makes the implementation useful.
 
-> Add or remove technologies to reflect the tools you actually use in your projects.
+- **Engineering notes:** [Add a real implementation detail.]
+- **Stack:** [Verified technologies]
+- **Code:** [Repository URL](https://github.com/Nkalah/REPLACE_WITH_REPOSITORY)
 
-## `github_stats --display`
+### `project-03` — **[Project name]**
+Highlight a different strength from the projects above: for example, API design, UI implementation, automation, or data handling—only if demonstrated by the project.
+
+- **Engineering notes:** [Add a real implementation detail.]
+- **Stack:** [Verified technologies]
+- **Code:** [Repository URL](https://github.com/Nkalah/REPLACE_WITH_REPOSITORY)
+
+## `04 / GITHUB SIGNAL`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nkalah&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&text_color=9AFFB0&icon_color=00FF41&include_all_commits=true" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nkalah&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=9AFFB0" alt="Most used programming languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Nkalah&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=9AFFB0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="GitHub contribution streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nkalah&show_icons=true&hide_border=true&bg_color=0D0F0E&title_color=36C98F&text_color=E8ECE8&icon_color=36C98F&rank_icon=github" alt="GitHub account statistics for Nkalah" />
 
 </div>
 
-## `ls ./featured-projects`
+<sub>If this third-party card is unavailable, the profile and repository links above still work. Statistics are a snapshot, not a measure of engineering ability.</sub>
 
-<!-- Replace the placeholders below with your actual public repository names and descriptions. -->
+## `05 / PRINCIPLES`
 
-<table>
-<tr>
-<td width="50%">
+- **Build to understand.** Learn concepts by applying them in working projects.
+- **Prefer clarity.** Write code that another person can follow and maintain.
+- **Iterate deliberately.** Test ideas, learn from results, and improve the implementation.
+- **Show the work.** Let repositories, documentation, and demos support the claims.
 
-### [Project One](https://github.com/Nkalah)
-
-A short description of your first featured project, the problem it solves, and the technologies used.
-
-**Stack:** `React` · `TypeScript`
-
-</td>
-<td width="50%">
-
-### [Project Two](https://github.com/Nkalah)
-
-A short description of another project that demonstrates your development skills.
-
-**Stack:** `Node.js` · `Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [Project Three](https://github.com/Nkalah)
-
-Showcase an application, useful tool, or open-source contribution you're proud of.
-
-**Stack:** `Java` · `JavaScript`
-
-</td>
-<td width="50%">
-
-### [Explore All Repositories](https://github.com/Nkalah?tab=repositories)
-
-Explore my repositories to see what I'm working on and what I've built.
-
-**Status:** `More projects to explore`
-
-</td>
-</tr>
-</table>
-
-## `current_mission`
-
-```python
-class Developer:
-    def __init__(self):
-        self.username = "Nkalah"
-        self.interests = [
-            "Software Development",
-            "Full-Stack Applications",
-            "Problem Solving",
-            "Continuous Learning"
-        ]
-
-    def next_step(self):
-        return "Build something useful."
-
-me = Developer()
-print(me.next_step())
-```
-
-## `connect --with-me`
-
-If you find something interesting in my repositories, feel free to explore, contribute, or connect.
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Nkalah)
+`[ END OF PROFILE ]`
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B1F,100:000000&height=100&section=footer" width="100%" />
-
-**`01001110 01001011 01000001 01001100 01000001 01001000`**
-
-<sub>Built with code, curiosity, and a terminal mindset.</sub>
+<sub>Curious by default. Practical by design.</sub>
 
 </div>
