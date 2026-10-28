@@ -230,7 +230,7 @@ open_to:
 
 <div align="center">
 
-*"Keep building. Keep learning. Keep improving."*
+*"Work hard in silence. Let success be your noise."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:064e3b,100:050807&height=120&section=footer" width="100%"/>
 
